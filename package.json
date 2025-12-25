@@ -1,0 +1,16 @@
+{
+  "name": "saywordbybeats-server",
+  "version": "1.0.0",
+  "description": "Server for Say the Word on Beat privacy policy and content",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["saywordbybeats", "server"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
